@@ -19,7 +19,7 @@
 
 @media (max-width: 1026px) {
     .floating-menu {
-        --fm-icon-size: 15px;
+        --fm-icon-size: 12px;
     }
 }
 
